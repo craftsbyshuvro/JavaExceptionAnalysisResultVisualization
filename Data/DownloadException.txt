@@ -1,0 +1,29 @@
+DataStructures<==>request failed with status code: 401
+skillrat<==>request failed with status code: 401
+OOP-100-days-of-code<==>'D:/Graduate Seminar/Projects/OOP-100-days-of-code' exists and is not an empty directory
+corejava_dec_2018<==>'D:/Graduate Seminar/Projects/corejava_dec_2018' exists and is not an empty directory
+digital-learning-imbit<==>'D:/Graduate Seminar/Projects/digital-learning-imbit' exists and is not an empty directory
+DataStructures<==>request failed with status code: 401
+skillrat<==>request failed with status code: 401
+campus2017<==>'D:/Graduate Seminar/Projects/campus2017' exists and is not an empty directory
+java89-project-team<==>request failed with status code: 401
+answeris<==>request failed with status code: 401
+OOP-100-days-of-code<==>'D:/Graduate Seminar/Projects/OOP-100-days-of-code' exists and is not an empty directory
+corejava_dec_2018<==>'D:/Graduate Seminar/Projects/corejava_dec_2018' exists and is not an empty directory
+digital-learning-imbit<==>'D:/Graduate Seminar/Projects/digital-learning-imbit' exists and is not an empty directory
+DataStructures<==>request failed with status code: 401
+skillrat<==>request failed with status code: 401
+campus2017<==>'D:/Graduate Seminar/Projects/campus2017' exists and is not an empty directory
+java89-project-team<==>request failed with status code: 401
+answeris<==>request failed with status code: 401
+anymarket-sdk-java<==>'D:/Graduate Seminar/Projects/anymarket-sdk-java' exists and is not an empty directory
+OOP-100-days-of-code<==>'D:/Graduate Seminar/Projects/OOP-100-days-of-code' exists and is not an empty directory
+corejava_dec_2018<==>'D:/Graduate Seminar/Projects/corejava_dec_2018' exists and is not an empty directory
+digital-learning-imbit<==>'D:/Graduate Seminar/Projects/digital-learning-imbit' exists and is not an empty directory
+DataStructures<==>request failed with status code: 401
+skillrat<==>request failed with status code: 401
+campus2017<==>'D:/Graduate Seminar/Projects/campus2017' exists and is not an empty directory
+java89-project-team<==>request failed with status code: 401
+answeris<==>request failed with status code: 401
+anymarket-sdk-java<==>'D:/Graduate Seminar/Projects/anymarket-sdk-java' exists and is not an empty directory
+RPG6<==>'D:/Graduate Seminar/Projects/RPG6' exists and is not an empty directory

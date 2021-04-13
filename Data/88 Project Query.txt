@@ -1,0 +1,11 @@
+SELECT DISTINCT pro.id, pro.language,pro.name ,pro.url FROM `ghtorrentmysql1906.MySQL1906.projects` as pro
+where pro.id in (
+    SELECT DISTINCT commit.project_id FROM `ghtorrentmysql1906.MySQL1906.commits` commit
+    WHERE created_at between '2014-01-01' and '2021-12-21'
+    AND (SELECT COUNT(*) FROM `ghtorrentmysql1906.MySQL1906.project_members` 
+    where repo_id = commit.project_id) > 20
+    GROUP BY commit.project_id
+    HAVING COUNT(commit.id) between 500 and 1000
+)
+AND UPPER(pro.language) = 'JAVA'
+ORDER BY pro.id DESC
